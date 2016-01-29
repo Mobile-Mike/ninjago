@@ -1,0 +1,61 @@
+body {
+	width: 800px;
+	height:auto;
+	margin:0 auto;
+	display: block;
+}
+h3, h2, h1{
+	clear: both;
+	padding-top: 50px;
+}
+
+ul{
+ clear: both;
+}
+li{
+width:160px;
+list-style: none;
+text-align: center;
+float:left;
+border:1px solid black;
+}
+li.double{
+	width: 322px;
+}
+ul.titles{
+	background-color: gray;
+}
+ul.titles li{
+
+	font-weight: bold;
+}
+.pilots{
+   	background-color: red;
+}
+.one{
+	background-color: aqua;
+}
+.two{
+	background-color: green;
+}
+.three{
+	background-color: silver;
+}
+.four{
+	background-color: #f90;
+}
+.five{
+	background-color: #9932CC;
+}
+.side{
+	background-color: #35CC36;
+}
+.six{
+	background-color: #285940;
+}
+.seven{
+	background-color: #708090;
+}
+.half{
+	background-color: #30CB97;
+}

@@ -1,0 +1,386 @@
+[
+				  	{
+				  		'name' : 'Kai',
+				  		'title' : 'Red Ninja',
+				  		'type' : 'main_character',
+				  		'icon' : 'kai_icon.png',
+				  		'image' : 'kai_main.png',
+				  		'about' : 'about text for kai'
+				  	},
+				  	{
+				  		'name' : 'Jay',
+				  		'title' : 'Blue Ninja',
+				  		'type' : 'main_character',
+				  		'icon' : 'jay_icon.png',
+				  		'image' : 'jay_main.png',
+				  		'about' : 'about text for jay'
+				  	},
+				  	{
+				  		'name' : 'Zane',
+				  		'title' : 'White Ninja/Titanium Ninja',
+				  		'type' : 'main_character',
+				  		'icon' : 'zane_icon.png',
+				  		'image' : 'zane_main.png',
+				  		'about' : 'about text for zane'
+				  	},
+				  		{
+				  		'name' : 'Cole',
+				  		'title' : 'Black Ninja',
+				  		'type' : 'main_character',
+				  		'icon' : 'cole_icon.png',
+				  		'image' : 'cole_main.png',
+				  		'about' : 'about text for cole'
+				  	},
+				  		{
+				  		'name' : 'Lloyd',
+				  		'title' : 'Green Ninja/Golden Ninja',
+				  		'type' : 'main_character',
+				  		'icon' : 'lloyd_icon.png',
+				  		'image' : 'lloyd_main.png',
+				  		'about' : 'about text for lloyd'
+				  	},
+				  	{
+				  		'name' : 'Skylar',
+				  		'title' : 'Yellow Ninja',
+				  		'type' : 'main_character',
+				  		'icon' : 'skylar_icon.png',
+				  		'image' : 'skylar_main.png',
+				  		'about' : 'about text for skylar'
+				  	},
+				  		{
+				  		'name' : 'Nya',
+				  		'title' : 'Samurai X',
+				  		'type' : 'main_character',
+						'icon' : 'nya_icon.png',
+				  		'image' : 'nya_main.png',
+				  		'about' : 'about text for nya'
+				  	},
+				  		{
+				  		'name' : 'Sensei Wu',
+				  		'title' : '',
+				  		'type' : 'main_character',
+				  		'icon' : 'wu_icon.png',
+				  		'image' : 'wu_main.png',
+				  		'about' : 'about text for wu'
+				  	},
+				  		{
+				  		'name' : 'Sensei Garmadon',
+				  		'title' : '',
+				  		'type' : 'main_character',
+				  		'icon' : 'garmadon_icon.png',
+				  		'image' : 'garmadom_main.png',
+				  		'about' : 'about text for garmadon'
+				  	},
+				  		{
+				  		'name' : 'Misako Garmadon',
+				  		'title' : '',
+				  		'type' : 'main_character',
+				  		'icon' : 'misako_icon.png',
+				  		'image' : 'misako_main.png',
+				  		'about' : 'about text for misako'
+				  	},
+				  		{
+				  		'name' : 'Pixal',
+				  		'title' : '',
+				  		'type' : 'main_character',
+				  		'icon' : 'pixal_icon.png',
+				  		'image' : 'pixal_main.png',
+				  		'about' : 'about text for pixal'
+				  	},
+				  		{
+				  		'name' : 'The First Spinjitzu Master',
+				  		'title' : '',
+				  		'type' : 'main_character',
+				  		'icon' : 'master_icon.png',
+				  		'image' : 'master_main.png',
+				  		'about' : 'about text for master'
+				  	},
+				  		{
+				  		'name' : 'The Falcon',
+				  		'title' : '',
+				  		'type' : 'main_character',
+				  		'icon' : 'falcon_icon.png',
+				  		'image' : 'falcon_main.png',
+				  		'about' : 'about text for falcon'
+				  	},
+				  		{
+				  		'name' : 'Ed and Edna',
+				  		'title' : '',
+				  		'type' : 'supporting_character',
+				  		'icon' : 'ed&edna_icon.png',
+				  		'image' : 'ed&edna_main.png',
+				  		'about' : 'about text for ed&edna'
+				  	},
+				  	 	{
+				  		'name' : 'Sensei Dareth',
+				  		'title' : 'Brown Ninja',
+				  		'type' : 'supporting_character',
+				  		'icon' : 'dareth_icon.png',
+				  		'image' : 'dareth_main.png',
+				  		'about' : 'about text for dareth'
+				  	},
+				  	 	{
+				  		'name' : 'Dr. Julien',
+				  		'title' : 'The Tinkerer',
+				  		'type' : 'supporting_character',
+				  		'icon' : 'julien_icon.png',
+				  		'image' : 'julien_main.png',
+				  		'about' : 'about text for julien'
+				  	},
+				  	{
+				  		'name' : 'Lou',
+				  		'title' : '',
+				  		'type' : 'supporting_character',
+				  		'icon' : 'lou_icon.png',
+				  		'image' : 'lou_main.png',
+				  		'about' : 'about text for lou'
+				  	},
+				  	{
+				  		'name' : 'The Overlord',
+				  		'title' : 'The Golden Master',
+				  		'type' : 'villains',
+				  		'icon' : 'overlord_icon.png',
+				  		'image' : 'overlord_main.png',
+				  		'about' : 'about text for overlord'
+				  	},
+				  	{
+				  		'name' : 'The Great Devourer',
+				  		'title' : '',
+				  		'type' : 'villains',
+				  		'icon' : 'devourer_icon.png',
+				  		'image' : 'devourer_main.png',
+				  		'about' : 'about text for devourer'
+				  	},
+				  	{
+				  		'name' : 'Samukai',
+				  		'title' : 'General Of Fire',
+				  		'type' : 'skeletons',
+				  		'icon' : 'samukai_icon.png',
+				  		'image' : 'samukai_main.png',
+				  		'about' : 'about text for samukai'
+				  	},
+				  	{
+				  		'name' : 'Kruncha',
+				  		'title' : 'General Of Earth',
+				  		'type' : 'skeletons',
+				  		'icon' : 'kruncha_icon.png',
+				  		'image' : 'kruncha_main.png',
+				  		'about' : 'about text for kruncha'
+				  	},
+				  	{
+				  		'name' : 'Nuckal',
+				  		'title' : 'General Of Lightning',
+				  		'type' : 'skeletons',
+				  		'icon' : 'nuckal_icon.png',
+				  		'image' : 'nuckal_main.png',
+				  		'about' : 'about text for nuckal'
+				  	},
+				  	{
+				  		'name' : 'Wyplash',
+				  		'title' : 'General Of Ice',
+				  		'type' : 'skeletons',
+				  		'icon' : 'wyplash_icon.png',
+				  		'image' : 'wyplash_main.png',
+				  		'about' : 'about text for wyplash'
+				  	},
+				  	{
+				  		'name' : 'Frakjaw',
+				  		'title' : 'Skeleton Of Fire',
+				  		'type' : 'skeletons',
+				  		'icon' : 'frakjaw_icon.png',
+				  		'image' : 'frakjaw_main.png',
+				  		'about' : 'about text for frakjaw'
+				  	},
+				  	{
+				  		'name' : 'Chopov',
+				  		'title' : 'Skeleton Of Earth',
+				  		'type' : 'skeletons',
+				  		'icon' : 'chopov_icon.png',
+				  		'image' : 'chopov_main.png',
+				  		'about' : 'about text for chopov'
+				  	},
+				  	{
+				  		'name' : 'Krazi',
+				  		'title' : 'Skeleton Of Lightning',
+				  		'type' : 'skeletons',
+				  		'icon' : 'krazi_icon.png',
+				  		'image' : 'krazi_main.png',
+				  		'about' : 'about text for krazi'
+				  	},
+				  	{
+				  		'name' : 'Bonezai',
+				  		'title' : 'Skeleton Of Ice',
+				  		'type' : 'skeletons',
+				  		'icon' : 'bonezai_icon.png',
+				  		'image' : 'bonezai_main.png',
+				  		'about' : 'about text for bonezai'
+				  	},
+				  	{
+				  		'name' : 'Pythor',
+				  		'title' : 'Anacondrai General',
+				  		'type' : 'anacondrai',
+				  		'icon' : 'pythor_icon.png',
+				  		'image' : 'pythor_main.png',
+				  		'about' : 'about text for pythor'
+				  	},
+				  	{
+				  		'name' : 'Hydro',
+				  		'title' : 'Anacondrai Warrior',
+				  		'type' : 'anacondrai',
+				  		'icon' : 'hydro_icon.png',
+				  		'image' : 'hydro_main.png',
+				  		'about' : 'about text for hydro'
+				  	},
+				    {
+				  		'name' : 'Arcturus',
+				  		'title' : 'Anacondrai Warrior',
+				  		'type' : 'anacondrai',
+				  		'icon' : 'arcturus_icon.png',
+				  		'image' : 'arcturus_main.png',
+				  		'about' : 'about text for arcturus'
+				  	},
+				  	{
+				  		'name' : 'Skales',
+				  		'title' : 'Hypnobrai General',
+				  		'type' : 'hypnobrai',
+				  		'icon' : 'skales_icon.png',
+				  		'image' : 'skales_main.png',
+				  		'about' : 'about text for skales'
+				  	},
+				    {
+				  		'name' : 'Selma',
+				  		'title' : '',
+				  		'type' : 'hypnobrai',
+				  		'icon' : 'selma_icon.png',
+				  		'image' : 'selma_main.png',
+				  		'about' : 'about text for selma'
+				  	},
+				  	{
+				  		'name' : 'Skales Jr.',
+				  		'title' : '',
+				  		'type' : 'hypnobrai',
+				  		'icon' : 'skalesjr_icon.png',
+				  		'image' : 'skalesjr_main.png',
+				  		'about' : 'about text for skalesjr'
+				  	},
+				  	{
+				  		'name' : 'Slithraa',
+				  		'title' : 'Hypnobrai Ex-General',
+				  		'type' : 'hypnobrai',
+				  		'icon' : 'slithraa_icon.png',
+				  		'image' : 'slithraa_main.png',
+				  		'about' : 'about text for slithraa'
+				  	},
+				  	{
+				  		'name' : 'Mezmo',
+				  		'title' : 'Hypnobrai Soldier',
+				  		'type' : 'hypnobrai',
+				  		'icon' : 'mezmo_icon.png',
+				  		'image' : 'mezmo_main.png',
+				  		'about' : 'about text for mezmo'
+				  	},
+				  	{
+				  		'name' : 'Rattla',
+				  		'title' : 'Hypnobrai Scout',
+				  		'type' : 'hypnobrai',
+				  		'icon' : 'rattla_icon.png',
+				  		'image' : 'rattla_main.png',
+				  		'about' : 'about text for rattla'
+				  	},
+				  	{
+				  		'name' : 'Fangtom',
+				  		'title' : 'Fangpyre General',
+				  		'type' : 'fangpyre',
+				  		'icon' : 'fangtom_icon.png',
+				  		'image' : 'fangtom_main.png',
+				  		'about' : 'about text for fangtom'
+				  	},
+				  	{
+				  		'name' : 'Fangdam',
+				  		'title' : 'Fangpyre Warrior',
+				  		'type' : 'fangpyre',
+				  		'icon' : 'fangdam_icon.png',
+				  		'image' : 'fangdam_main.png',
+				  		'about' : 'about text for fangdam'
+				  	},
+				  	{
+				  		'name' : 'Fang-Suei',
+				  		'title' : 'Fangpyre Soldier',
+				  		'type' : 'fangpyre',
+				  		'icon' : 'fang-suei_icon.png',
+				  		'image' : 'fang-suei_main.png',
+				  		'about' : 'about text for fang-suei'
+				  	},
+				  	{
+				  		'name' : 'Snappa',
+				  		'title' : 'Fangpyre Scout',
+				  		'type' : 'fangpyre',
+				  		'icon' : 'snappa_icon.png',
+				  		'image' : 'snappa_main.png',
+				  		'about' : 'about text for snappa'
+				  	},
+				   	{
+				  		'name' : 'Skalidor',
+				  		'title' : 'Constrictai General',
+				  		'type' : 'constrictai',
+				  		'icon' : 'skalidor_icon.png',
+				  		'image' : 'skalidor_main.png',
+				  		'about' : 'about text for skalidor'
+				  	}, 	
+				   	{
+				  		'name' : 'Bytar',
+				  		'title' : 'Constrictai Warrior',
+				  		'type' : 'constrictai',
+				  		'icon' : 'bytar_icon.png',
+				  		'image' : 'bytar_main.png',
+				  		'about' : 'about text for bytar'
+				  	}, 	
+				  	{
+				  		'name' : 'Chokun',
+				  		'title' : 'Constrictai Soldier',
+				  		'type' : 'constrictai',
+				  		'icon' : 'chokun_icon.png',
+				  		'image' : 'chokun_main.png',
+				  		'about' : 'about text for chokun'
+				  	},
+				  	{
+				  		'name' : 'Snike',
+				  		'title' : 'Constrictai Scout',
+				  		'type' : 'constrictai',
+				  		'icon' : 'snike_icon.png',
+				  		'image' : 'snike_main.png',
+				  		'about' : 'about text for snike'
+				  	},
+				  	{
+				  		'name' : 'Acidius',
+				  		'title' : 'Venomari General',
+				  		'type' : 'venomari',
+				  		'icon' : 'acidius_icon.png',
+				  		'image' : 'acidius_main.png',
+				  		'about' : 'about text for acidius'
+				  	},
+				  	{
+				  		'name' : 'Lizaru',
+				  		'title' : 'Venomari Warrior',
+				  		'type' : 'venomari',
+				  		'icon' : 'lizaru_icon.png',
+				  		'image' : 'lizaru_main.png',
+				  		'about' : 'about text for lizaru'
+				  	},
+				  	{
+				  		'name' : 'Spitta',
+				  		'title' : 'Venomari Soldier',
+				  		'type' : 'venomari',
+				  		'icon' : 'spitta_icon.png',
+				  		'image' : 'spitta_main.png',
+				  		'about' : 'about text for spitta'
+				  	},
+				  	{
+				  		'name' : 'Lasha',
+				  		'title' : 'Venomari Scout',
+				  		'type' : 'venomari',
+				  		'icon' : 'lasha_icon.png',
+				  		'image' : 'lasha_main.png',
+				  		'about' : 'about text for lasha'
+				  	},
+  	]

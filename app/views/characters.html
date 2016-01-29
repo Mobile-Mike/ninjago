@@ -1,0 +1,66 @@
+<p>{{$scope.mike}}</p>
+<h2>
+Characters 
+</h2>
+<h3>Main Characters</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="main_character">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Supporting Characters:</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="supporting_character">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Villains:</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="villains">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Skeletons:</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="skeletons">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Anacondrai:</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="anacondrai">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Hypnobrai:</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="hypnobrai">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Fangpyre:</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="fangpyre">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Constrictai:</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="constrictai">{{char.name}}</p>
+</a>
+</div>
+
+<h3>Venomari</h3>
+<div ng-repeat="char in characters" ng-switch="char.type">
+<a href="#/characters/about/{{characters.indexOf(char)}}">
+<p ng-switch-when="venomari">{{char.name}}</p>
+</a>
+</div>
